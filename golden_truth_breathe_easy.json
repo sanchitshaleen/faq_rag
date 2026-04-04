@@ -1,0 +1,181 @@
+[
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_001",
+    "question": "What is BreatheEasy DPI and what is it indicated for?",
+    "answer_text": "BreatheEasy DPI is a fixed-dose combination dry powder inhaler containing flurimoterol (a long-acting beta-2 agonist, LABA) and budesonixa (an inhaled corticosteroid, ICS). It is indicated for: (1) maintenance treatment of asthma in patients aged \u226512 years not adequately controlled on ICS alone, and (2) maintenance treatment of chronic obstructive pulmonary disease (COPD) to reduce exacerbations in patients with a history of exacerbations.",
+    "page_num": 1,
+    "section": "Product Information",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_002",
+    "question": "What strengths are available?",
+    "answer_text": "BreatheEasy DPI is available in three strengths, each delivering per inhalation: Low 4.5 mcg 80 mcg Asthma (Step 3) Medium 4.5 mcg 160 mcg Asthma (Step 3-4) High 4.5 mcg 320 mcg Asthma (Step 4-5) / COPD",
+    "page_num": 1,
+    "section": "Product Information",
+    "has_table": true,
+    "table": {
+      "headers": [
+        "Strength",
+        "Flurimoterol",
+        "Budesonixa",
+        "Indication"
+      ],
+      "rows": [
+        [
+          "Low",
+          "4.5 mcg",
+          "80 mcg",
+          "Asthma (Step 3)"
+        ],
+        [
+          "Medium",
+          "4.5 mcg",
+          "160 mcg",
+          "Asthma (Step 3-4)"
+        ],
+        [
+          "High",
+          "4.5 mcg",
+          "320 mcg",
+          "Asthma (Step 4-5) / COPD"
+        ]
+      ]
+    }
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_003",
+    "question": "How many doses are in each inhaler?",
+    "answer_text": "Each BreatheEasy DPI inhaler contains 120 metered doses (60 days of treatment at the recommended dosing of 2 inhalations twice daily). The inhaler includes a built-in dose counter that counts down from 120 to 0. When the counter reaches 20 (highlighted in red), a new inhaler should be obtained. Discard the inhaler when the counter reads 0 or 12 months after removal from the foil pouch, whichever comes first.",
+    "page_num": 1,
+    "section": "Dosing and Administration",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_004",
+    "question": "What is the recommended dosing for asthma?",
+    "answer_text": "The recommended dosing for asthma in patients aged \u226512 years is 2 inhalations twice daily (morning and evening, approximately 12 hours apart). The appropriate strength should be selected based on asthma severity. Patients should rinse their mouth with water and spit after each administration to reduce the risk of oropharyngeal candidiasis. BreatheEasy DPI is not indicated for the relief of acute bronchospasm.",
+    "page_num": 1,
+    "section": "Dosing and Administration",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_005",
+    "question": "What is the recommended dosing for COPD?",
+    "answer_text": "For COPD, the recommended dose is BreatheEasy DPI High Strength (flurimoterol 4.5 mcg / budesonixa 320 mcg): 2 inhalations twice daily. This is the only strength approved for COPD. The maximum recommended dose is 2 inhalations twice daily of the High Strength formulation. Exceeding this dose does not provide additional benefit and increases the risk of systemic corticosteroid effects.",
+    "page_num": 1,
+    "section": "Dosing and Administration",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_006",
+    "question": "How should the DPI device be used?",
+    "answer_text": "Instructions for use: (1) Open the cover fully until it clicks. (2) Hold the inhaler upright and slide the lever away from you until it clicks \u2014 this loads a dose. (3) Breathe out fully (away from the inhaler). (4) Place the mouthpiece between your lips and seal tightly. (5) Inhale deeply and forcefully through the mouth. (6) Remove the inhaler and hold your breath for 10 seconds. (7) If a second inhalation is needed, repeat steps 2-6. (8) Close the cover. Always store the inhaler in a dry place with the cover closed.",
+    "page_num": 2,
+    "section": "Dosing and Administration",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_007",
+    "question": "What inspiratory flow rate is needed for the DPI device?",
+    "answer_text": "The BreatheEasy DPI device requires a minimum peak inspiratory flow rate (PIFR) of 30 L/min for adequate drug delivery. Optimal drug delivery is achieved at PIFR \u226560 L/min. Patients with severe airflow limitation or those unable to generate adequate inspiratory flow may not receive the full dose. Consider alternative delivery systems (e.g., metered-dose inhaler with spacer or nebulizer) for patients with PIFR <30 L/min.",
+    "page_num": 2,
+    "section": "Safety Profile",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_008",
+    "question": "What are the most common adverse reactions?",
+    "answer_text": "The most common adverse reactions reported in \u22653% of patients in clinical trials were: Nasopharyngitis 7.2% 6.8% Oral candidiasis 5.1% 3.9% Headache 4.8% 4.2% Upper respiratory tract infection 4.3% 3.8% Dysphonia 3.2% 1.9% Muscle cramps 3.0% 0.8%",
+    "page_num": 2,
+    "section": "Safety Profile",
+    "has_table": true,
+    "table": {
+      "headers": [
+        "Adverse Reaction",
+        "BreatheEasy DPI (N=1,432)",
+        "ICS alone (N=714)"
+      ],
+      "rows": [
+        [
+          "Nasopharyngitis",
+          "7.2%",
+          "6.8%"
+        ],
+        [
+          "Oral candidiasis",
+          "5.1%",
+          "3.9%"
+        ],
+        [
+          "Headache",
+          "4.8%",
+          "4.2%"
+        ],
+        [
+          "Upper respiratory tract infection",
+          "4.3%",
+          "3.8%"
+        ],
+        [
+          "Dysphonia",
+          "3.2%",
+          "1.9%"
+        ],
+        [
+          "Muscle cramps",
+          "3.0%",
+          "0.8%"
+        ]
+      ]
+    }
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_009",
+    "question": "What is the risk of pneumonia in COPD patients?",
+    "answer_text": "In COPD trials, the incidence of pneumonia was 6.2% in patients receiving BreatheEasy DPI High Strength compared to 3.4% in patients receiving LABA alone over 12 months. Risk factors for pneumonia include current smoking, history of prior pneumonia, BMI <25 kg/m\u00b2, and severe airflow limitation (FEV1 <50% predicted). Monitor COPD patients for signs of pneumonia, as clinical features may overlap with COPD exacerbations.",
+    "page_num": 2,
+    "section": "Safety Profile",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_010",
+    "question": "Does BreatheEasy DPI affect bone density?",
+    "answer_text": "Long-term use of inhaled corticosteroids may be associated with reduced bone mineral density. In a 2-year study, patients receiving BreatheEasy DPI High Strength showed a mean lumbar spine BMD decrease of 0.4% compared to 0.1% with LABA alone. Patients at risk for osteoporosis should be monitored with periodic bone density assessments and should follow standard preventive measures including adequate calcium and vitamin D intake and weight-bearing exercise.",
+    "page_num": 2,
+    "section": "Special Populations and Precautions",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_011",
+    "question": "Can BreatheEasy DPI be used during pregnancy?",
+    "answer_text": "Limited data from clinical trials in pregnant women are insufficient to inform a drug-associated risk. In animal reproduction studies, budesonixa administered by inhalation at doses up to 3 times the maximum recommended human dose (MRHD) did not cause adverse developmental effects. Poorly controlled asthma during pregnancy is associated with perinatal complications. The potential benefits should be weighed against potential risks. Pregnant asthma patients should continue controller therapy under physician guidance.",
+    "page_num": 3,
+    "section": "Special Populations and Precautions",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_012",
+    "question": "Can BreatheEasy DPI be used in pediatric patients?",
+    "answer_text": "BreatheEasy DPI is approved for use in patients aged \u226512 years. The safety and efficacy in children <12 years have not been established. Growth velocity should be monitored in adolescent patients receiving inhaled corticosteroids, as a transient reduction in growth velocity (approximately 1 cm/year) may be observed during the first 1-2 years of treatment. This effect is generally small, and the long-term effect on final adult height is unknown.",
+    "page_num": 3,
+    "section": "Special Populations and Precautions",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_013",
+    "question": "What precautions apply to patients being transferred from systemic corticosteroids?",
+    "answer_text": "Patients transferring from systemic corticosteroids to BreatheEasy DPI are at risk of adrenal insufficiency. Taper systemic corticosteroids slowly (reduce prednisone by no more than 2.5 mg/week). Monitor patients for signs of adrenal insufficiency (fatigue, weakness, nausea, hypotension) during and after transfer. During periods of stress or acute asthma exacerbation, supplemental systemic corticosteroids may be needed. Advise patients to carry a medical alert card indicating their need for supplemental systemic steroids during stress.",
+    "page_num": 3,
+    "section": "Special Populations and Precautions",
+    "has_table": false
+  },
+  {
+    "faq_id": "BreatheEasy_Inhaler_FAQ_014",
+    "question": "How should the inhaler device be cleaned?",
+    "answer_text": "Clean the mouthpiece of the inhaler once weekly. Wipe the outside of the mouthpiece with a clean, dry cloth or tissue. Do not wash the inhaler or place any part of it in water, as moisture can affect drug delivery. If the inhaler appears damaged or the mouthpiece becomes detached, discard it and use a new inhaler. Do not attempt to repair the device.",
+    "page_num": 3,
+    "section": "Special Populations and Precautions",
+    "has_table": false
+  }
+]

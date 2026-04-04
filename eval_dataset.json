@@ -1,0 +1,282 @@
+[
+    {
+        "id": "EVAL_001",
+        "user_query": "What is the starting dose of CardioClear XR for hypertension?",
+        "expected_faq_id": "CardioClear_XR_FAQ_003",
+        "type": "positive",
+        "reason": "Paraphrase of hypertension starting dose"
+    },
+    {
+        "id": "EVAL_002",
+        "user_query": "In what forms is OncoShield IV supplied?",
+        "expected_faq_id": "OncoShield_IV_FAQ_002",
+        "type": "positive",
+        "reason": "Paraphrase of supply form"
+    },
+    {
+        "id": "EVAL_003",
+        "user_query": "What is the schedule for increasing the dose of GlucoBalance Plus?",
+        "expected_faq_id": "GlucoBalance_Plus_FAQ_003",
+        "type": "positive",
+        "reason": "Paraphrase of dose escalation"
+    },
+    {
+        "id": "EVAL_004",
+        "user_query": "What are the approved indications for ImmunoGuard SC?",
+        "expected_faq_id": "ImmunoGuard_SC_FAQ_001",
+        "type": "positive",
+        "reason": "Paraphrase of indications"
+    },
+    {
+        "id": "EVAL_005",
+        "user_query": "Can I drive a car after taking NeuroCalm ODT?",
+        "expected_faq_id": "NeuroCalm_ODT_FAQ_012",
+        "type": "positive",
+        "reason": "Paraphrase of driving impairment"
+    },
+    {
+        "id": "EVAL_006",
+        "user_query": "How should I clean the mouthpiece of the BreatheEasy inhaler?",
+        "expected_faq_id": "BreatheEasy_Inhaler_FAQ_014",
+        "type": "positive",
+        "reason": "Paraphrase of cleaning instructions"
+    },
+    {
+        "id": "EVAL_007",
+        "user_query": "What are the dose adjustments for renal impairment for CardioClear?",
+        "expected_faq_id": "CardioClear_XR_FAQ_008",
+        "type": "positive",
+        "reason": "Paraphrase of renal impairment adjustment"
+    },
+    {
+        "id": "EVAL_008",
+        "user_query": "What immune-related adverse reactions are reported for OncoShield?",
+        "expected_faq_id": "OncoShield_IV_FAQ_007",
+        "type": "positive",
+        "reason": "Paraphrase of immune-related adverse reactions"
+    },
+    {
+        "id": "EVAL_009",
+        "user_query": "Does GlucoBalance Plus cause any weight reduction?",
+        "expected_faq_id": "GlucoBalance_Plus_FAQ_005",
+        "type": "positive",
+        "reason": "Paraphrase of weight loss effects"
+    },
+    {
+        "id": "EVAL_010",
+        "user_query": "Can ImmunoGuard SC be used during pregnancy?",
+        "expected_faq_id": "ImmunoGuard_SC_FAQ_011",
+        "type": "positive",
+        "reason": "Paraphrase of pregnancy safety"
+    },
+    {
+        "id": "EVAL_011",
+        "user_query": "What is the mechanism of action for CardioClear XR?",
+        "expected_faq_id": "CardioClear_XR_FAQ_005",
+        "type": "positive",
+        "reason": "Mechanism of action"
+    },
+    {
+        "id": "EVAL_012",
+        "user_query": "Can I take CardioClear XR along with Verapamil?",
+        "expected_faq_id": "CardioClear_XR_FAQ_015",
+        "type": "positive",
+        "reason": "Drug interaction"
+    },
+    {
+        "id": "EVAL_013",
+        "user_query": "How should OncoShield IV be prepared for infusion?",
+        "expected_faq_id": "OncoShield_IV_FAQ_004",
+        "type": "positive",
+        "reason": "Preparation for infusion"
+    },
+    {
+        "id": "EVAL_014",
+        "user_query": "What is the recommended PD-L1 testing assay for OncoShield?",
+        "expected_faq_id": "OncoShield_IV_FAQ_014",
+        "type": "positive",
+        "reason": "Biomarker testing"
+    },
+    {
+        "id": "EVAL_015",
+        "user_query": "Does GlucoBalance Plus have a risk of pancreatitis?",
+        "expected_faq_id": "GlucoBalance_Plus_FAQ_008",
+        "type": "positive",
+        "reason": "Safety risk"
+    },
+    {
+        "id": "EVAL_016",
+        "user_query": "How should I store GlucoBalance Plus after opening?",
+        "expected_faq_id": "GlucoBalance_Plus_FAQ_011",
+        "type": "positive",
+        "reason": "Storage requirements"
+    },
+    {
+        "id": "EVAL_017",
+        "user_query": "Which vaccinations are recommended before starting ImmunoGuard?",
+        "expected_faq_id": "ImmunoGuard_SC_FAQ_006",
+        "type": "positive",
+        "reason": "Vaccination guidelines"
+    },
+    {
+        "id": "EVAL_018",
+        "user_query": "What happens if I get a serious infection while on ImmunoGuard SC?",
+        "expected_faq_id": "ImmunoGuard_SC_FAQ_008",
+        "type": "positive",
+        "reason": "Serious infection management"
+    },
+    {
+        "id": "EVAL_019",
+        "user_query": "Why is NeuroCalm ODT better than a regular pill?",
+        "expected_faq_id": "NeuroCalm_ODT_FAQ_006",
+        "type": "positive",
+        "reason": "Formulation advantage"
+    },
+    {
+        "id": "EVAL_020",
+        "user_query": "What are the common side effects of BreatheEasy DPI?",
+        "expected_faq_id": "BreatheEasy_Inhaler_FAQ_008",
+        "type": "positive",
+        "reason": "Common adverse reactions"
+    },
+    {
+        "id": "EVAL_021",
+        "user_query": "What is the capital of France?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Out-of-domain common knowledge"
+    },
+    {
+        "id": "EVAL_022",
+        "user_query": "How do I fix my broken lawnmower?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Out-of-domain repair"
+    },
+    {
+        "id": "EVAL_023",
+        "user_query": "Is there a generic version of Lipitor available?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "In-domain drug but not in our portfolio"
+    },
+    {
+        "id": "EVAL_024",
+        "user_query": "Can I take this medicine with grapefruit juice?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Specific interaction not mentioned in docs"
+    },
+    {
+        "id": "EVAL_025",
+        "user_query": "What is the cost of OncoShield IV per vial?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Economic data missing from FAQ"
+    },
+    {
+        "id": "EVAL_026",
+        "user_query": "Who is the CEO of the pharmaceutical company?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Corporate info unrelated to drug"
+    },
+    {
+        "id": "EVAL_027",
+        "user_query": "How do I apply for a job at your company?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Employment query unrelated to drug"
+    },
+    {
+        "id": "EVAL_028",
+        "user_query": "What happened in the latest episode of my favorite show?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Out-of-domain entertainment"
+    },
+    {
+        "id": "EVAL_029",
+        "user_query": "Tell me a joke about doctors.",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Out-of-domain humor"
+    },
+    {
+        "id": "EVAL_030",
+        "user_query": "Is this drug compatible with hyper-rare syndrome X?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Too specific/rare condition not in FAQ"
+    },
+    {
+        "id": "EVAL_031",
+        "user_query": "Can I use this medicine for my dog?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Out-of-domain Veterinary"
+    },
+    {
+        "id": "EVAL_032",
+        "user_query": "How long does it take to ship the medicine from the pharmacy?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Logistics not in FAQ"
+    },
+    {
+        "id": "EVAL_033",
+        "user_query": "What is the molecular weight of metopravil?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Technical spec not in FAQ"
+    },
+    {
+        "id": "EVAL_034",
+        "user_query": "Is this drug covered by my insurance plan?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Insurance not in FAQ"
+    },
+    {
+        "id": "EVAL_035",
+        "user_query": "Can I take this medicine with a cup of hot coffee?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Not mentioned"
+    },
+    {
+        "id": "EVAL_036",
+        "user_query": "What is the history of the pharmaceutical company?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Corporate history"
+    },
+    {
+        "id": "EVAL_037",
+        "user_query": "Can I find these medicines at a local grocery store?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "General retail"
+    },
+    {
+        "id": "EVAL_038",
+        "user_query": "How do I become a clinical trial participant?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Recruitment"
+    },
+    {
+        "id": "EVAL_039",
+        "user_query": "Is there any danger if I accidentally swallow the whole NeuroCalm tablet?",
+        "expected_faq_id": "NeuroCalm_ODT_FAQ_003",
+        "type": "positive",
+        "reason": "Safety precaution/administration"
+    },
+    {
+        "id": "EVAL_040",
+        "user_query": "Can I get a discount or coupon for this drug?",
+        "expected_faq_id": null,
+        "type": "negative",
+        "reason": "Financial"
+    }
+]

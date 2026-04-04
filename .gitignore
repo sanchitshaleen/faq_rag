@@ -1,0 +1,22 @@
+# Vector stores
+vector_db/
+*.db
+faq_metadata.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# Binaries (Excluded for HF Spaces compatibility)
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+new_docs/*.docx
+new_docs/*.pdf
+new_docs/
