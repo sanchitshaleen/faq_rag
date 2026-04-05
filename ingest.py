@@ -40,13 +40,12 @@ def run_ingestion(docs_dirs: list[str] = None, reset: bool = False):
     if not docx_files and os.path.exists(json_path):
         print(f"   ⚠️  No DOCX files found. Loading from JSON backup: {os.path.basename(json_path)}")
         import json
-        from docx_parser import FAQItem # assuming shared structure
+        from models import QAPair
         with open(json_path, 'r') as f:
             meta_data = json.load(f)
             for fid, item in meta_data.items():
-                # Reconstruct FAQItem (simplified for ingestion)
-                from docx_parser import FAQItem
-                obj = FAQItem(
+                # Reconstruct QAPair from JSON
+                obj = QAPair(
                     faq_id=item['faq_id'],
                     question=item['question'],
                     answer_text=item['answer_text'],
